@@ -1,0 +1,14 @@
+/Users/alexisgrisham/BlogPortfolioAPI/bin/Debug/netcoreapp2.1/BlogPortfolioAPI.deps.json
+/Users/alexisgrisham/BlogPortfolioAPI/bin/Debug/netcoreapp2.1/BlogPortfolioAPI.runtimeconfig.json
+/Users/alexisgrisham/BlogPortfolioAPI/bin/Debug/netcoreapp2.1/BlogPortfolioAPI.runtimeconfig.dev.json
+/Users/alexisgrisham/BlogPortfolioAPI/bin/Debug/netcoreapp2.1/BlogPortfolioAPI.dll
+/Users/alexisgrisham/BlogPortfolioAPI/bin/Debug/netcoreapp2.1/BlogPortfolioAPI.pdb
+/Users/alexisgrisham/BlogPortfolioAPI/obj/Debug/netcoreapp2.1/BlogPortfolioAPI.csprojAssemblyReference.cache
+/Users/alexisgrisham/BlogPortfolioAPI/obj/Debug/netcoreapp2.1/BlogPortfolioAPI.csproj.CoreCompileInputs.cache
+/Users/alexisgrisham/BlogPortfolioAPI/obj/Debug/netcoreapp2.1/BlogPortfolioAPI.RazorAssemblyInfo.cache
+/Users/alexisgrisham/BlogPortfolioAPI/obj/Debug/netcoreapp2.1/BlogPortfolioAPI.RazorAssemblyInfo.cs
+/Users/alexisgrisham/BlogPortfolioAPI/obj/Debug/netcoreapp2.1/BlogPortfolioAPI.AssemblyInfoInputs.cache
+/Users/alexisgrisham/BlogPortfolioAPI/obj/Debug/netcoreapp2.1/BlogPortfolioAPI.AssemblyInfo.cs
+/Users/alexisgrisham/BlogPortfolioAPI/obj/Debug/netcoreapp2.1/BlogPortfolioAPI.RazorTargetAssemblyInfo.cache
+/Users/alexisgrisham/BlogPortfolioAPI/obj/Debug/netcoreapp2.1/BlogPortfolioAPI.dll
+/Users/alexisgrisham/BlogPortfolioAPI/obj/Debug/netcoreapp2.1/BlogPortfolioAPI.pdb
